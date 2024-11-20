@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Figtree Extra Bold';
+    src: url(../assets/fonts/static/Figtree-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'Figtree Semi Bold';
+    src: url(../assets/fonts/static/Figtree-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Figtree Italic Variable';
+    src: url(../assets/fonts/Figtree-Italic-VariableFont_wght.ttf)
+}
+
+@font-face {
+    font-family: 'Figtree Variable';
+    src: url(../assets/fonts/Figtree-VariableFont_wght.ttf)
+}
+
+h1 {
+    border-radius: 10%;
+    display: inline;
+    padding: 0.5rem;
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+    font-family: 'Figtree Extra Bold';
+    font-size: 0.875rem;
+    background-color: #F4D04E;
+    color: #111111;
+    
+}
+
+h2{
+    font-family: 'Figtree Extra Bold';
+    font-size: 1.5rem;
+}
+
+._date {
+    font-family: 'Figtree Variable';
+    font-size: 14px;
+    color: #111111;
+    font-weight: 600;
+}
+
+._data_card_subtext{
+    font-family: 'Figtree Variable';
+    font-size: 16px;
+    color: #6b6b6b;
+    font-weight: 600;
+}
+
+p {
+    font-family: 'Figtree Extra Bold';
+    font-size: 16px;
+    color: #111111;
+}
